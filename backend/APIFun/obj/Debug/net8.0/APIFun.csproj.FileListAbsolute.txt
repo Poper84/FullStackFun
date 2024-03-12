@@ -125,3 +125,4 @@ C:\Users\jakegrimsman\source\repos\fullstackfun\backend\APIFun\obj\Debug\net8.0\
 C:\Users\jakegrimsman\source\repos\fullstackfun\backend\APIFun\obj\Debug\net8.0\APIFun.pdb
 C:\Users\jakegrimsman\source\repos\fullstackfun\backend\APIFun\obj\Debug\net8.0\APIFun.genruntimeconfig.cache
 C:\Users\jakegrimsman\source\repos\fullstackfun\backend\APIFun\obj\Debug\net8.0\ref\APIFun.dll
+C:\Users\jakegrimsman\source\repos\FullStackFun\backend\APIFun\obj\Debug\net8.0\APIFun.sourcelink.json
