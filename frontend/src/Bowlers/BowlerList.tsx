@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { bowlers } from "../types/bowlers";
-
+//This function gets the bowling list put into an array from the DB
 function BowlerList() {
     const [bowlingdata, setbowlingdata] = useState<bowlers[]>([]);
 
